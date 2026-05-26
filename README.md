@@ -161,7 +161,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "telegram: @saweitt",      
+        footer: "telegram: @epineek2",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
@@ -240,7 +240,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @saweitt",
+        footer: "telegram: @epineek2",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -293,10 +293,10 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @saweitt",
+        footer: "telegram: @epineek2",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "saweitt.pdf",
+        fileName: "epineek2.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         contextInfo: {
             mentionedJid: [jid],
@@ -304,12 +304,12 @@ await sock.sendMessage(jid, {
             isForwarded: false
         },
         externalAdReply: {
-            title: "shenń Bot",
+            title: "Pined Bot",
             body: "anu team",
             mediaType: 3,
             thumbnailUrl: "https://example.com/image.jpg",
             mediaUrl: " X ",
-            sourceUrl: "https://t.me/saweitt",
+            sourceUrl: "https://t.me/epineek2",
             showAdAttribution: true,
             renderLargerThumbnail: false         
         },
@@ -318,8 +318,8 @@ await sock.sendMessage(jid, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/saweitt",
-                    merchant_url: "https://t.me/saweitt"
+                    url: "https://t.me/epineek2",
+                    merchant_url: "https://t.me/epineek2"
                 })
             }
         ]
@@ -335,7 +335,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @saweitt",
+        footer: "telegram: @epineek2",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
         fileName: "saweitt.pdf",
@@ -345,8 +345,8 @@ await sock.sendMessage(jid, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/saweitt",
-                    merchant_url: "https://t.me/saweitt"
+                    url: "https://t.me/epineek2",
+                    merchant_url: "https://t.me/epineek2"
                 })
             }
         ]
@@ -398,7 +398,7 @@ Because this library offers high stability, full features, and an actively impro
 - Compatible with the latest multi-device features from WhatsApp
 - Easy to integrate and customize based on your needs
 - Perfect for developing bots, customer service automation, and other communication applications
-- Has 1 newsletter follow, only the developer's WhatsApp channel: [WhatsApp Channel](https://whatsapp.com/channel/0029VaranC0KmCPQCHryFs2C)
+- Has 1 newsletter follow, only the developer's WhatsApp channel: [WhatsApp Channel](https://whatsapp.com/channel/0029Vb7d9KxKWEKynNYTMy1m)
 
 ---
 
@@ -414,8 +414,8 @@ For complete documentation, installation guides, and implementation examples, pl
 
 For questions, support, or collaboration, feel free to contact the developer:
 
-- **Telegram**: [Telegram Contact](https://t.me/tskiofc)
-- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VaranC0KmCPQCHryFs2C) 
+- **Telegram**: [Telegram Contact](https://t.me/epineek2)
+- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029Vb7d9KxKWEKynNYTMy1m) 
 
 ### 🙌 Contributors outside the Baileys code
 
@@ -424,21 +424,21 @@ Thanks to the following awesome contributors who help improve this project 💖
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/z4phdev">
-        <img src="https://github.com/z4phdev.png" width="80px;" style="border-radius:50%;" alt="Developer"/>
+      <a href="https://github.com/epinkenedy">
+        <img src="https://github.com/epinkenedy.png" width="80px;" style="border-radius:50%;" alt="Developer"/>
         <br />
         <sub><b>z4phdev</b></sub>
       </a>
     </td>
 <td align="center">
-      <a href="https://github.com/kiuur">
-        <img src="https://github.com/kiuur.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+      <a href="https://github.com/epinkenedy">
+        <img src="https://github.com/epinkenedy.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
         <sub><b>KyuuRzy</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Nted3xec">
+      <a href="https://github.com/epinkenedy">
         <img src="https://raw.githubusercontent.com/IkyyExecutive/IkyyBokep/main/uploads/1770205734777_31697_1770205733762_file_821.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
         <sub><b>Nted3xec</b></sub>
